@@ -178,9 +178,9 @@ img{
 }
 .mar{
     position: absolute;
-    left: 997px;
+    left: 1775px;
 	top: 774px;
-    width: 297px;
+    width: 410px;
 }
 .fam{
     width: 295px;
@@ -192,7 +192,8 @@ img{
     width: 294px;
 }
 .eu{
-    width: 297px;
+    width: 210px;
+	    top: 774px;
 }
 .ll22{
     position: absolute;
@@ -201,7 +202,7 @@ img{
 }
 .t222{
     position: absolute;
-    left: 639px;
+    left: 560px;
 	top: 1432px;
 }
 .ll11{
@@ -211,7 +212,7 @@ img{
 }
 .t111{
     position: absolute;
-    left: 639px;
+    left: 560px;
 	top: 1480px;
 }
 .logoo{
