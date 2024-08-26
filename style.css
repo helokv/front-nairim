@@ -6,7 +6,7 @@
     background-color: rgb(97, 94, 94);
 }
 .logo{
-    width: 1427px;
+    width: 1935px;
     height: 198px;
     opacity: 0.5;
     margin-left: -13px;
@@ -95,7 +95,7 @@ p{
 }
 .rodape{
     background-color: rgb(105, 102, 102);
-   width: 1412px;
+   width: 1935px;
    height: 175px;
    margin-top: 124px;
    display: flex;
@@ -123,22 +123,22 @@ p{
 }
 .l1{
     position: absolute; 
-	left: 558px;
+	left:639px;
 	top: 1310px;
 }
 .l2{
     position: absolute; 
-	left: 558px;
+	left: 639px;
 	top:1268px;
 }
 .t1{
     position: absolute;
-    left: 558px;
+    left: 636px;
 	top: 1327px;
 }
 .t2{
     position: absolute;
-    left: 558px;
+    left: 636px;
 	top: 1289px;
 }
 .t11{
